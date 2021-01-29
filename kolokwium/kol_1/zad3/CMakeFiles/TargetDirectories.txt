@@ -1,0 +1,8 @@
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/install/strip.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/install.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/list_install_components.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/rebuild_cache.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/edit_cache.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/Student.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/install/local.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3/CMakeFiles/zadanie3.dir

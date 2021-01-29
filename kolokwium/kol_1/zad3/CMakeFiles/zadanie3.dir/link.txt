@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/zadanie3.dir/src/libtest.cpp.o  -o zadanie3  -Wl,-rpath,/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad3: libStudent.so 
