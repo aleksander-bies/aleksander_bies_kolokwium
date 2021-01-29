@@ -1,0 +1,3 @@
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad1/cmakedozadania2/CMakeFiles/rebuild_cache.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad1/cmakedozadania2/CMakeFiles/edit_cache.dir
+/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad1/cmakedozadania2/CMakeFiles/myProgram.dir

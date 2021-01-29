@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myProgram.dir/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad1/address.cpp.o CMakeFiles/myProgram.dir/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad1/employee.cpp.o CMakeFiles/myProgram.dir/home/aleksander/bies_kolokwium/kolokwium/kol_1/zad1/main.cpp.o  -o myProgram 
